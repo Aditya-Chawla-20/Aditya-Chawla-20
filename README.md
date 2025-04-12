@@ -49,8 +49,8 @@
 
 ## 📌 Top Projects
 
-🔹 [**MoneyRush**](https://github.com/Aditya-Chawla-20/MoneyRush) – Personal finance and budgeting app with AI features  
-🔹 [**Showlog**](https://github.com/Aditya-Chawla-20/Showlog) – Admin CRUD-based product catalog  
+🔹 [**MoneyRush**](https://money-rush.vercel.app/) – Personal finance and budgeting app with AI features  
+🔹 [**Showlog**](https://showlog.vercel.app/) – Admin CRUD-based product catalog  
 🔹 [**Quizzer**](https://aditya-chawla-20.github.io/Quizzer/main.html) – JavaScript-based quiz game  
 🔹 [**Tic-Tac-Toe**](https://github.com/Aditya-Chawla-20/tic-tac-toe) – Simple game built with HTML/CSS/JS
 
