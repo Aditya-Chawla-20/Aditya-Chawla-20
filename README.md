@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me:
 
-🎓 I'm a 4rth-year Computer Science student at **Chitkara University** (CGPA: 8.38).  
+🎓 I'm a 4rth-year Computer Science student at **Chitkara University** (CGPA: 8.5).  
 💡 I'm currently building **MoneyRush**, a smart finance tracker to help users save and grow wealth.  
 🔥 I enjoy learning and applying **AI**, building full-stack projects, and solving real-world problems.  
 🎯 My mission? Build tools that help people live smarter and more financially secure lives.
